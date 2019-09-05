@@ -1,3 +1,7 @@
+> **⚠️ This repository is deprecated ⚠️**
+>
+> **Please use [https://github.com/elastic/site-search-ruby](https://github.com/elastic/site-search-ruby) instead. Thank you! - Elastic**
+
 # Swiftype::Easy - Simple Swiftype API Client with no dependencies
 
 This is a simple client for the Swiftype API with no dependencies outside core Ruby (for 1.9; Ruby 1.8 require the JSON gem).
